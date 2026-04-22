@@ -16,3 +16,5 @@ This file contains the variables listed in Table 1. The table contains descripti
 -	New PM report observations (2019 – present) uploaded as a .csv file named “sfccond_reports_YYYYMMDD.csv” where YYYYMMDD is the date of last update. 
 New PM reports are uploaded biweekly. This file will be updated every 6 months to keep it updated with the latest PM report responses. The variables included in these data files are listed in Table 2. An example of a PM report is provided in the Github repository as “PM_Report_Example.pdf” with the response choices for each variable. 
 -	ARM ECOR datastreams – please see the linked ARM instrument/VAP webpages.
+
+Update: A new PM report dataset that includes new reports from September 2025 to April 2026 has been added. This increases the number of reports from 1796 to 1914.
